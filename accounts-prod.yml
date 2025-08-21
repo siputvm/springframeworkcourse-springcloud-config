@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to Springframework demo relate to local APIs"
   contactDetails:
     name: "John Doe - Product Owner"
-    email: "john@domain.com"
+    email: "{cipher}4275de8836bc38ad343b7ff94ecdd3e63312ac20e6600503bed6c53dbd0c3969"
   onCallSupport:
     - "(+1) 123 456 789"
     - "(+1) 987 654 321"

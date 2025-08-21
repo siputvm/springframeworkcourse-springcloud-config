@@ -1,0 +1,10 @@
+build:
+  version: "3.0.0"
+loans:
+  message: "Welcome to Springframework demo relate to local APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@domain.com"
+  onCallSupport:
+    - "(+1) 123 456 789"
+    - "(+1) 987 654 321"

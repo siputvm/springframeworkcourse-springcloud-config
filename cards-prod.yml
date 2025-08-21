@@ -1,7 +1,7 @@
 build:
   version: "1.0.0"
 cards:
-  message: "Welcome to Springframework demo relate to PROD APIs"
+  message: "Welcome to Springframework demo relate to PROD :) APIs"
   contactDetails:
     name: "John Doe - Product Owner"
     email: "john@domain.com"
